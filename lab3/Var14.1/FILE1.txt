@@ -1,0 +1,3 @@
+string with to simillar words to
+string with no identical words
+string without any sence

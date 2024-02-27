@@ -1,0 +1,4 @@
+word123 is just a word123
+string12 is a string12
+beloded1 loves beloded1
+file is not a string

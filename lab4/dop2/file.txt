@@ -1,0 +1,8 @@
+Borisov 10:00
+Brest 11:00
+Orsha 12:00
+Hrodno 13:00
+Homel 14:00
+Vitebsk 15:00
+Mogilev 16:00
+Pinsk 17:00

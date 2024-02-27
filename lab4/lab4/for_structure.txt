@@ -1,0 +1,5 @@
+0 Belarus Minsk 20 1 Lefneo
+1 Poland Warsaw 10 100 duda
+2 hangary budapest 32030 1 Harmaza
+3 india Dehli 113131313 131112 HrenZnaet
+4 Russia Moscow 101010 11 Putin
