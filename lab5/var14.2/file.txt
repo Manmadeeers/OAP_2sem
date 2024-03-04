@@ -1,0 +1,9 @@
+Ivanov;Ivan;Ivanovich;MP4463721;01;04:05;Single;
+Double;
+Triple;
+Apartments;
+Petrov;Petr;Petrovich;MP4563897;10.12;21.12;Single;
+Double;
+Triple;
+Apartments;
+Viktorov;Viktor;Viktorovich;MP5648030;15.03;25.04;Apartments;

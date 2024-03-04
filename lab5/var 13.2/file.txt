@@ -1,0 +1,5 @@
+Belarus;Minsk;10000000;500000;Lukashenko;
+Poland;Warsaw;20000000;1e+06;Duda;
+Moscow;Moscow;152000000;2e+08;Putin;
+Germany;Berlin;30000000;1e+09;Sholz;
+Ukraine;Kiev;50000000;1.0022e+09;Zelenski;

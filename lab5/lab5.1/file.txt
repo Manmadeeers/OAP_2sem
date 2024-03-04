@@ -1,0 +1,5 @@
+Ivanov;Ivan;Ivanovich;15021999;295500071;BSTU;Department director;
+Petrov;Petr;Petrovich;16122000;295500072;BSU;Cleaning manager;
+Filipiuk;Ilya;Andreevich;20032006;295500073;none;student;
+Segrenev;Kirill;sergeevich;15032005;295500074;none;student;
+Fedorov;Fedor;Fedorovich;31112000;295500075;MITSO;Head of department;

@@ -1,0 +1,10 @@
+Ivanov;van;vanovich;rogram engineering;10;FIT;7.5;
+Petrov;etr;etrovich;nformation systems;3;FIT;8.5;
+Filipiuk;lya;ndreevich;rogram engineering;6;FIT;9;
+Kachinskas;aclovas;aclovavich;rogram engineering;6;FIT;8;
+Tihomirov;lya;gorevich;rogram engineering;7;FIT;7.5;
+Aleksandrovich;van;lersandrovich;nformation systems;5;FIT;8.3;
+Alekseev;leksei;lekseevich;igital design;4;FIT;9.5;
+Grigoriev;rigoriy;rigorievich;utomatisation;10;CTAT;6.9;
+Borisov;oris;orisovich;harmacology;4;CTAT;10;
+Sergeev;ergei;ergeevich;rint technologies;7;PAM;7.9;
