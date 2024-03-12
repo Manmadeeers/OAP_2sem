@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|solutionrelative:var15\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\process_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|solutionrelative:var15\\process_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0293742-BD7C-46F2-9245-7609048C8C29}|var15\\var15.vcxproj|solutionrelative:var15\\var15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "process_stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\process_stack.cpp",
+              "RelativeDocumentMoniker": "var15\\process_stack.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\process_stack.cpp",
+              "RelativeToolTip": "var15\\process_stack.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAwwHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T13:30:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\header.h",
+              "RelativeDocumentMoniker": "var15\\header.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\header.h",
+              "RelativeToolTip": "var15\\header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T13:31:04.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "var15.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\var15.cpp",
+              "RelativeDocumentMoniker": "var15\\var15.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab7\\var15\\var15.cpp",
+              "RelativeToolTip": "var15\\var15.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T13:29:15.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
