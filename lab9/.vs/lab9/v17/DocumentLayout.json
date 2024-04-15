@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{689B9023-7CC5-446A-A229-F851C11E008C}|dop3\\dop3.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{689B9023-7CC5-446A-A229-F851C11E008C}|dop3\\dop3.vcxproj|solutionrelative:dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8BCF6-E525-4E43-8C41-4901189F3768}|dop1\\dop1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AB8BCF6-E525-4E43-8C41-4901189F3768}|dop1\\dop1.vcxproj|solutionrelative:dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AB3EE9A-D172-421F-B5C3-BE6F3E996066}|lab9\\lab9.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\lab9\\lab9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AB3EE9A-D172-421F-B5C3-BE6F3E996066}|lab9\\lab9.vcxproj|solutionrelative:lab9\\lab9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1524957-CFE0-4E1F-8C31-0E62DA0D6919}|dop2\\dop2.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1524957-CFE0-4E1F-8C31-0E62DA0D6919}|dop2\\dop2.vcxproj|solutionrelative:dop2\\dop2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB8BCF6-E525-4E43-8C41-4901189F3768}|dop1\\dop1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AB8BCF6-E525-4E43-8C41-4901189F3768}|dop1\\dop1.vcxproj|solutionrelative:dop1\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dop3.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop3\\dop3.cpp",
+              "RelativeDocumentMoniker": "dop3\\dop3.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop3\\dop3.cpp",
+              "RelativeToolTip": "dop3\\dop3.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwNgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T13:50:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\List.h",
+              "RelativeDocumentMoniker": "dop1\\List.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\List.h",
+              "RelativeToolTip": "dop1\\List.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T12:37:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\dop1.cpp",
+              "RelativeDocumentMoniker": "dop1\\dop1.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop1\\dop1.cpp",
+              "RelativeToolTip": "dop1\\dop1.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwJUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T12:28:47.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dop2.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop2\\dop2.cpp",
+              "RelativeDocumentMoniker": "dop2\\dop2.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\dop2\\dop2.cpp",
+              "RelativeToolTip": "dop2\\dop2.cpp",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAowHoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T15:14:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "lab9.cpp",
               "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\lab9\\lab9.cpp",
               "RelativeDocumentMoniker": "lab9\\lab9.cpp",
               "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab9\\lab9\\lab9.cpp",
               "RelativeToolTip": "lab9\\lab9.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAIMAAAAAAAAA",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAwwMwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-02T12:03:18.805Z",
               "EditorCaption": ""

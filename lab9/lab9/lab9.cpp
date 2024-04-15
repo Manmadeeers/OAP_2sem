@@ -19,7 +19,8 @@ int menu(void)
 	cout << "2. Удаление имени" << endl;
 	cout << "3. Вывод на экран" << endl;
 	cout << "4. Поиск" << endl;
-	cout << "5. Выход" << endl;
+	cout << "5. Удаление первого встречающегося введённого элемента" << endl;
+	cout << "6. Выход" << endl;
 	cout << endl;
 	do{ 
 		cout << "Ваш выбор: ";
@@ -27,7 +28,7 @@ int menu(void)
 	gets_s(s);
 	cout << endl;
 	c = atoi(s);
-	} while (c < 0 || c > 5);
+	} while (c < 0 || c > 6);
 	return c;
 }
 //-----------------------------------------------------------
@@ -129,6 +130,34 @@ void delet(char name[NAME_SIZE], Address** phead, Address** plast) // Удале
 			cout << "Элемент удален" << endl;
 	}
 }
+void deleteX(int X, Address** phead)//function to delete the first element that is met
+{
+	int check_number = 0;
+	Address* current = *phead;//create a work pointer
+	while (current != nullptr) {//to check all the elements
+		if (check_number == X) {
+			if (*phead = current) {//if the element is found at the list's start
+				*phead = current->next;
+			}
+			if (current->next != nullptr) {//if we are not coming to the last element of  list
+				current->next->prev = current->prev;
+			}
+			if (current->prev != nullptr) {
+				current->prev->next = current->next;
+			}
+			//free the taken memory
+			Address* temp = current;
+			current = current->next;
+			delete temp;
+			cout << "Done!" << endl;
+			return;
+		}
+		check_number++;//to check all the element numbers
+		current = current->next;//go to 
+	}
+	cout << "There is no such a number or element" << endl;
+
+}
 
 //-----------------------------------------------------------
 int main(void)
@@ -162,7 +191,12 @@ int main(void)
 			find(fname, &head);
 		}
 			  break;
-		case 5: exit(0);
+		case 5:int X;
+			cout << "Введите номер элемента, который хотите удалить: ";
+			cin >> X;
+			deleteX(X, &head);
+			break;
+		case 6:exit(0); break;
 		default: exit(1);
 		}
 	}
