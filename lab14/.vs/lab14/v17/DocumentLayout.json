@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Chain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|solutionrelative:lab14\\Hash_Chain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|solutionrelative:dop1\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\lab14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|solutionrelative:lab14\\lab14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|solutionrelative:dop1\\dop1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|solutionrelative:lab14\\Lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|solutionrelative:lab14\\Hash_Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D43737E-3C69-47D4-B8F1-43CB1919E830}|lab14\\lab14.vcxproj|solutionrelative:lab14\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D780090E-0C90-4689-A4FF-6D668F10C2FC}|dop1\\dop1.vcxproj|solutionrelative:dop1\\Hash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lists.cpp",
-              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Lists.cpp",
-              "RelativeDocumentMoniker": "lab14\\Lists.cpp",
-              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Lists.cpp",
-              "RelativeToolTip": "lab14\\Lists.cpp",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAEUAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-19T21:36:53.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hash_Table.cpp",
-              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Table.cpp",
-              "RelativeDocumentMoniker": "lab14\\Hash_Table.cpp",
-              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Table.cpp",
-              "RelativeToolTip": "lab14\\Hash_Table.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-19T21:36:17.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "List.h",
-              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\List.h",
-              "RelativeDocumentMoniker": "lab14\\List.h",
-              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\List.h",
-              "RelativeToolTip": "lab14\\List.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAOAAAA",
+              "Title": "Hash.h",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.h",
+              "RelativeDocumentMoniker": "dop1\\Hash.h",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.h",
+              "RelativeToolTip": "dop1\\Hash.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-19T21:35:18.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hash_Chain.h",
-              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Chain.h",
-              "RelativeDocumentMoniker": "lab14\\Hash_Chain.h",
-              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\Hash_Chain.h",
-              "RelativeToolTip": "lab14\\Hash_Chain.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-19T21:34:50.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T12:49:00.144Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "lab14.cpp",
-              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\lab14.cpp",
-              "RelativeDocumentMoniker": "lab14\\lab14.cpp",
-              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\lab14\\lab14.cpp",
-              "RelativeToolTip": "lab14\\lab14.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Title": "dop1.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\dop1.cpp",
+              "RelativeDocumentMoniker": "dop1\\dop1.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\dop1.cpp",
+              "RelativeToolTip": "dop1\\dop1.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-19T21:33:40.41Z",
+              "WhenOpened": "2024-05-20T12:40:05.973Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hash.cpp",
+              "DocumentMoniker": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.cpp",
+              "RelativeDocumentMoniker": "dop1\\Hash.cpp",
+              "ToolTip": "C:\\Users\\Manmade\\Desktop\\\u041E\u0410\u0418\u041F\\\u041A\u043E\u0434-2\u0441\u0435\u043C\\OAP_2sem\\lab14\\dop1\\Hash.cpp",
+              "RelativeToolTip": "dop1\\Hash.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T12:49:35.457Z",
               "EditorCaption": ""
             }
           ]

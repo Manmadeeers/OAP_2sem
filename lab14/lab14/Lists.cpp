@@ -2,22 +2,22 @@
 #include <iostream>
 struct AAA //элемент таблицы
 {
-	int key;
-	char* mas;
+	int key;//tbale key
+	char* mas;//table element
 };
-namespace listx
+namespace listx//namespace for list
 {
-	bool Object::insert(void* data)
+	bool Object::insert(void* data)//function to insert an element into a single linked list
 	{
 		bool rc = NULL;
 		if (head == NULL)
 			head = new Element(NULL, data, head);
-		else
-			head = (head->prev = new Element(NULL, data, head));
+
+		else head = (head->prev = new Element(NULL, data, head));
 		return rc;
 	}
 	//-------------------------------
-	Element* Object::search(void* data)
+	Element* Object::search(void* data)//function to search elements in a single linked list
 	{
 		Element* rc = head;
 		while ((rc != NULL) && ((((AAA*)rc->data)->key) != ((AAA*)data)->key))
@@ -25,7 +25,7 @@ namespace listx
 		return rc;
 	}
 	//-------------------------------
-	bool Object::deleteByElement(Element* e)
+	bool Object::deleteByElement(Element* e)//function to delete element by value in a single linked list
 	{
 		bool rc = NULL;
 		if (rc = (e != NULL))
@@ -42,12 +42,12 @@ namespace listx
 		return rc;
 	}
 	//-------------------------------
-	bool Object::deleteByData(void* data)
+	bool Object::deleteByData(void* data)//function to delete by data from a single linked list
 	{
 		return deleteByElement(search(data));
 	}
 	//-------------------------------
-	Element* Object::getLast()
+	Element* Object::getLast()//function to get the last element of a single linked list
 	{
 		listx::Element* e = this->getFirst(), * rc = this->getFirst();
 		while (e != NULL)
@@ -57,12 +57,12 @@ namespace listx
 		};
 		return rc;
 	}
-	Object create()
+	Object create()//object function to create a new list
 	{
 		return *(new Object());
 	};
 	//-------------------------------
-	void Object::scan()
+	void Object::scan()//function to scan the whole list 
 	{
 		listx::Element* e = this->getFirst();
 		while (e != NULL)

@@ -1,40 +1,40 @@
 #pragma once //Заголовочный файл Lists.h
 #define LISTNIL (Element*)-1
-namespace listx
+namespace listx//namespace for list
 {
-	struct Element
+	struct Element//structure to define a doubly linked list
 	{
-		Element* prev;
+		Element* prev;//pointers to the next and previous element
 		Element* next;
-		void* data;
-		Element(Element* pr, void* dat, Element* nt)
+		void* data;//data
+		Element(Element* pr, void* dat, Element* nt)//namespace function 
 		{
 			prev = pr;
 			data = dat;
 			next = nt;
 		}
-		Element* getNext()
+		Element* getNext()//getting next element
 		{
 			return next;
 		};
-		Element* getPrev()
+		Element* getPrev()//getting previous element
 		{
 			return prev;
 		};
 	};
-	static Element* NIL = nullptr;
-	struct Object
+	static Element* NIL = nullptr;//set the first pointer
+	struct Object//object structure
 	{
-		Element* head;
+		Element* head;//head pointer
 		Object()
 		{
 			head = NIL;
 		};
-		Element* getFirst()
+		Element* getFirst()//get the head of the list
 		{
 			return head;
 		};
-		Element* getLast();
+		Element* getLast();//same functions applied to a doubly linked list
 		Element* search(void* data);
 		bool insert(void* data);
 		bool deleteByElement(Element* e);
